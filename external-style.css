@@ -1,0 +1,17 @@
+h1,p{
+    margin-left: 1.5rem;
+}
+.c1{
+    color: yellow;
+}
+.c2{
+    color: blue;
+}
+.c3{
+    color: rgb(248, 138, 156)
+}
+.c4{
+    background-color: rgb(247, 247, 224);
+    padding: 1.7rem;
+    margin-left: 0rem;
+}
